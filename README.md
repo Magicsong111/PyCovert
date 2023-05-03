@@ -6,6 +6,6 @@
 
 当满足以上条件后，就可以正常打开并使用本软件
 
-  [Api文档](https://magicsong111.github.io/box/c++%20covert/index.html)
+  [Api文档](https://magicsong111.github.io/box/PyCovert/index.html)
   
   ( __下载在同一目录下__ )
